@@ -1,0 +1,6 @@
+context_path: forecast_p.run.ProjectContext
+project_name: "forecast"
+project_version: "0.16.5"
+package_name: "forecast_p"
+hooks:
+  - forecast_p.hooks.project_hooks
